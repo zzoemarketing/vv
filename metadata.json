@@ -1,0 +1,6 @@
+{
+  "name": "Vitrine Digital - Estética Automotiva",
+  "description": "Uma página de vendas de alta conversão para o produto Vitrine Digital, focada em donos de estética automotiva que buscam profissionalismo e escala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
